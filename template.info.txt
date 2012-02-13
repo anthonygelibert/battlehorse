@@ -1,0 +1,7 @@
+base     battlehorse
+author   Anthony Gelibert
+email    anthony.gelibert@me.com
+date     2012-02-13
+name     Modified Battlehorse
+desc     Modified version of Battlehorse from Riccardo Govoni
+url      https://github.com/anthonygelibert/battlehorse
